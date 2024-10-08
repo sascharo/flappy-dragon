@@ -1,4 +1,0 @@
-repository "Flappy Dragon@SnapdragonX@cloud"
-  path "/"
-    br "/main"
-    co "/main"
